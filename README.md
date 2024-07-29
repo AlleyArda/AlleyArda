@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlleyArda
 - 👀 I’m interested in alghorithm questions
-- 🌱 I’m currently learning C , python , swift , flutter
+- 🌱 I’m currently developing swift
 - 💞️ I’m looking to collaborate on somewhere to help in my progress
 - 📫 How to reach me ... ( aliardakulaksiz@gmail.com )
 
